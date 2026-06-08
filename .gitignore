@@ -12,7 +12,6 @@ doc/specifications/*/*.toc
 doc/specifications/*/*.out
 doc/specifications/*/*synctex.gz
 *.vcd
-.vscode/
 *.cache/
 .ctags.d/
 sim
@@ -24,3 +23,5 @@ signature.txt
 benchmarks/
 .patched
 sim-meep
+config.bat
+node_modules
